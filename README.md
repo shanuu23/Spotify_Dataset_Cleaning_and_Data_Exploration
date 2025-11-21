@@ -1,4 +1,4 @@
-# 🎧 Spotify-Dataset-Cleaning-and-Data-Exploration
+# 🎧 Spotify Dataset Cleaning and Data Exploration
 
 This project involves cleaning and analyzing a Spotify dataset to uncover insights about track,genre, and playlists popularity.
 
